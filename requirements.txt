@@ -1,12 +1,4 @@
 fastapi
 uvicorn
-openai
-faiss-cpu
-pypdf
 python-multipart
-tiktoken
-numpy
-pandas
-openpyxl
-langchain
-python-dotenv
+openai
